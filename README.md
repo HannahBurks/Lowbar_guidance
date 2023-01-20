@@ -183,7 +183,7 @@ function _.forEach(greetingArr, iterateeFunc)//_.forEach is invoked with the gre
 
 *Output*
 ```js
-//function _.forEach => ["HI", "HOLA", "HELLO]
+//function _.forEach => ["HI", "HOLA", "HELLO"]
 ```
 
 **Possible tests:**
